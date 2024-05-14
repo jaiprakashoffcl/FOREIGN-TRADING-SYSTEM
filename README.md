@@ -49,7 +49,7 @@ The Foreign Trading System is a web application that allows users to view exchan
 ## Contributors
 
 - Jai Prakash ([jaiprakashoffcl](https://github.com/jaiprakashoffcl))
-- Nikil Raj
+- Nikil Raj ([Nikilraj25](https://github.com/Nikilraj25))
 - Gokulan
 - Gokula Krishanaji([sjgokulakrishnaji](https://github.com/sjgokulakrishnaji))
 
