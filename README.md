@@ -17,7 +17,6 @@ The Foreign Trading System is a web application that allows users to view exchan
 
 ## Installation
 
-
 1. Clone the repository:
    ```
    git clone https://github.com/jaiprakashoffcl/foreign-trading-system.git
